@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T10:50:38.695Z",
+  "updatedAt": "2026-09-21T16:40:32.952Z",
   "activities": [
     {
       "id": "strava-14712427457",
@@ -5039,6 +5039,27 @@
       "descent": null,
       "avgPower": 206.8,
       "maxPower": 286,
+      "laps": []
+    },
+    {
+      "id": "strava-20267440654",
+      "date": "2026-09-21T12:03:23Z",
+      "localDate": "2026-09-21",
+      "title": "Afternoon Run",
+      "sport": "running",
+      "source": "strava",
+      "distance": 10007.8,
+      "duration": 3009,
+      "elapsed": 3121,
+      "pace": 300.6654809248786,
+      "avgHr": 138.9,
+      "maxHr": 154,
+      "avgCad": 172,
+      "maxCad": null,
+      "ascent": 18,
+      "descent": null,
+      "avgPower": 319.2,
+      "maxPower": 405,
       "laps": []
     }
   ]
