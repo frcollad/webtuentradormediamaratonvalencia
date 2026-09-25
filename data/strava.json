@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T17:30:36.570Z",
+  "updatedAt": "2026-09-25T20:43:52.292Z",
   "activities": [
     {
       "id": "strava-14712427457",
@@ -5081,6 +5081,27 @@
       "descent": null,
       "avgPower": 329.4,
       "maxPower": 560,
+      "laps": []
+    },
+    {
+      "id": "strava-20327700867",
+      "date": "2026-09-25T17:53:36Z",
+      "localDate": "2026-09-25",
+      "title": "Carrera de noche",
+      "sport": "running",
+      "source": "strava",
+      "distance": 12008.8,
+      "duration": 3874,
+      "elapsed": 4043,
+      "pace": 322.5967623742589,
+      "avgHr": 127.9,
+      "maxHr": 140,
+      "avgCad": 170,
+      "maxCad": null,
+      "ascent": 40,
+      "descent": null,
+      "avgPower": 299.5,
+      "maxPower": 380,
       "laps": []
     }
   ]
