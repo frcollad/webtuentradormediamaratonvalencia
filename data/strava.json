@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T15:56:20.761Z",
+  "updatedAt": "2026-09-28T21:52:37.759Z",
   "activities": [
     {
       "id": "strava-14712427457",
@@ -5123,6 +5123,27 @@
       "descent": null,
       "avgPower": 319.2,
       "maxPower": 461,
+      "laps": []
+    },
+    {
+      "id": "strava-20368502849",
+      "date": "2026-09-28T18:00:16Z",
+      "localDate": "2026-09-28",
+      "title": "Evening Padel",
+      "sport": "other",
+      "source": "strava",
+      "distance": 184.7,
+      "duration": 3604,
+      "elapsed": 3604,
+      "pace": 19512.723335138064,
+      "avgHr": 107.2,
+      "maxHr": 172,
+      "avgCad": 58.3,
+      "maxCad": null,
+      "ascent": 0,
+      "descent": null,
+      "avgPower": null,
+      "maxPower": null,
       "laps": []
     }
   ]
