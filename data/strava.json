@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T13:18:50.571Z",
+  "updatedAt": "2026-10-03T17:26:36.486Z",
   "activities": [
     {
       "id": "strava-14712427457",
@@ -5228,6 +5228,27 @@
       "descent": null,
       "avgPower": 282.4,
       "maxPower": 336,
+      "laps": []
+    },
+    {
+      "id": "strava-20435473404",
+      "date": "2026-10-03T07:37:38Z",
+      "localDate": "2026-10-03",
+      "title": "Morning Run",
+      "sport": "running",
+      "source": "strava",
+      "distance": 10306.6,
+      "duration": 3184,
+      "elapsed": 3230,
+      "pace": 308.9282595618342,
+      "avgHr": 133.7,
+      "maxHr": 147,
+      "avgCad": 170,
+      "maxCad": null,
+      "ascent": 29,
+      "descent": null,
+      "avgPower": 336.7,
+      "maxPower": 421,
       "laps": []
     }
   ]
