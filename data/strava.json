@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T14:26:18.495Z",
+  "updatedAt": "2026-10-05T21:36:28.404Z",
   "activities": [
     {
       "id": "strava-14712427457",
@@ -5270,6 +5270,48 @@
       "descent": null,
       "avgPower": 341.4,
       "maxPower": 446,
+      "laps": []
+    },
+    {
+      "id": "strava-20463306039",
+      "date": "2026-10-05T16:16:38Z",
+      "localDate": "2026-10-05",
+      "title": "Caminata de noche",
+      "sport": "walking",
+      "source": "strava",
+      "distance": 5587.4,
+      "duration": 3843,
+      "elapsed": 4448,
+      "pace": 687.7975444750689,
+      "avgHr": 72.6,
+      "maxHr": 91,
+      "avgCad": 56.5,
+      "maxCad": null,
+      "ascent": 20,
+      "descent": null,
+      "avgPower": null,
+      "maxPower": null,
+      "laps": []
+    },
+    {
+      "id": "strava-20464642066",
+      "date": "2026-10-05T18:04:25Z",
+      "localDate": "2026-10-05",
+      "title": "Pádel al anochecer",
+      "sport": "other",
+      "source": "strava",
+      "distance": 270.7,
+      "duration": 3598,
+      "elapsed": 3598,
+      "pace": 13291.466568156631,
+      "avgHr": 106.2,
+      "maxHr": 206,
+      "avgCad": 62.4,
+      "maxCad": null,
+      "ascent": 0,
+      "descent": null,
+      "avgPower": null,
+      "maxPower": null,
       "laps": []
     }
   ]
