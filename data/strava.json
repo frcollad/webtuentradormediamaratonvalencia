@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T06:59:19.468Z",
+  "updatedAt": "2026-10-10T13:34:24.830Z",
   "activities": [
     {
       "id": "strava-14712427457",
@@ -5438,6 +5438,27 @@
       "descent": null,
       "avgPower": 286.6,
       "maxPower": 318,
+      "laps": []
+    },
+    {
+      "id": "strava-20526717221",
+      "date": "2026-10-10T08:28:06Z",
+      "localDate": "2026-10-10",
+      "title": "Excursión de mañana",
+      "sport": "hiking",
+      "source": "strava",
+      "distance": 11397.9,
+      "duration": 11096,
+      "elapsed": 11305,
+      "pace": 973.5126646136569,
+      "avgHr": 74.3,
+      "maxHr": 117,
+      "avgCad": 51.7,
+      "maxCad": null,
+      "ascent": 266,
+      "descent": null,
+      "avgPower": null,
+      "maxPower": null,
       "laps": []
     }
   ]
