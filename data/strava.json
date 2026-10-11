@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T06:22:53.057Z",
+  "updatedAt": "2026-10-11T13:27:11.782Z",
   "activities": [
     {
       "id": "strava-14712427457",
@@ -5459,6 +5459,27 @@
       "descent": null,
       "avgPower": null,
       "maxPower": null,
+      "laps": []
+    },
+    {
+      "id": "strava-20536835604",
+      "date": "2026-10-11T06:12:52Z",
+      "localDate": "2026-10-11",
+      "title": "Carrera de mañana",
+      "sport": "running",
+      "source": "strava",
+      "distance": 18083.6,
+      "duration": 5033,
+      "elapsed": 5033,
+      "pace": 278.31847640956454,
+      "avgHr": 148.9,
+      "maxHr": 162,
+      "avgCad": 175,
+      "maxCad": null,
+      "ascent": 140,
+      "descent": null,
+      "avgPower": 347.4,
+      "maxPower": 469,
       "laps": []
     }
   ]
