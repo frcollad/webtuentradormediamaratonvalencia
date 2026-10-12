@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T08:06:45.187Z",
+  "updatedAt": "2026-10-12T17:50:23.876Z",
   "activities": [
     {
       "id": "strava-14712427457",
@@ -5480,6 +5480,27 @@
       "descent": null,
       "avgPower": 347.4,
       "maxPower": 469,
+      "laps": []
+    },
+    {
+      "id": "strava-20553780180",
+      "date": "2026-10-12T10:32:58Z",
+      "localDate": "2026-10-12",
+      "title": "Caminata a la hora del almuerzo",
+      "sport": "walking",
+      "source": "strava",
+      "distance": 8374.9,
+      "duration": 5794,
+      "elapsed": 9057,
+      "pace": 691.8291561690289,
+      "avgHr": 69.8,
+      "maxHr": 81,
+      "avgCad": 56.6,
+      "maxCad": null,
+      "ascent": 6,
+      "descent": null,
+      "avgPower": null,
+      "maxPower": null,
       "laps": []
     }
   ]
