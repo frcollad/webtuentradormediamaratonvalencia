@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T10:41:21.806Z",
+  "updatedAt": "2026-10-19T17:12:31.286Z",
   "activities": [
     {
       "id": "strava-14712427457",
@@ -5711,6 +5711,27 @@
       "descent": null,
       "avgPower": 317.4,
       "maxPower": 451,
+      "laps": []
+    },
+    {
+      "id": "strava-20646796513",
+      "date": "2026-10-19T12:28:52Z",
+      "localDate": "2026-10-19",
+      "title": "Elíptica por la tarde",
+      "sport": "other",
+      "source": "strava",
+      "distance": 0,
+      "duration": 1576,
+      "elapsed": 1576,
+      "pace": null,
+      "avgHr": 106,
+      "maxHr": 143,
+      "avgCad": 67.7,
+      "maxCad": null,
+      "ascent": 0,
+      "descent": null,
+      "avgPower": null,
+      "maxPower": null,
       "laps": []
     }
   ]
