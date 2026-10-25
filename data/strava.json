@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T06:47:04.183Z",
+  "updatedAt": "2026-10-25T12:06:34.375Z",
   "activities": [
     {
       "id": "strava-14712427457",
@@ -5837,6 +5837,27 @@
       "descent": null,
       "avgPower": 319,
       "maxPower": 478,
+      "laps": []
+    },
+    {
+      "id": "strava-20722170174",
+      "date": "2026-10-25T07:35:58Z",
+      "localDate": "2026-10-25",
+      "title": "Media maratón valencia",
+      "sport": "running",
+      "source": "strava",
+      "distance": 21285.1,
+      "duration": 5357,
+      "elapsed": 5357,
+      "pace": 251.6784041418645,
+      "avgHr": 153.2,
+      "maxHr": 168,
+      "avgCad": 180,
+      "maxCad": null,
+      "ascent": 37,
+      "descent": null,
+      "avgPower": 380,
+      "maxPower": 467,
       "laps": []
     }
   ]
