@@ -108,7 +108,14 @@ const patch = {
     'la tirada larga es lo último que se toca.',
 };
 
-const outPath = path.join(process.cwd(), 'coach-patches', '2026-10-30-plan-maraton-valencia.json');
-await mkdir(path.dirname(outPath), { recursive: true });
-await writeFile(outPath, JSON.stringify(patch, null, 2) + '\n', 'utf8');
-console.log(`OK: ${plan.length} sesiones escritas en ${outPath}`);
+// Copia con fecha (histórico/auditoría) + copia "viva" en data/coach-plan.json,
+// que es la que la propia web consulta sola (ver syncCoachPlan() en index.html).
+const archivePath = path.join(process.cwd(), 'coach-patches', '2026-10-30-plan-maraton-valencia.json');
+const livePath = path.join(process.cwd(), 'data', 'coach-plan.json');
+const json = JSON.stringify(patch, null, 2) + '\n';
+
+await mkdir(path.dirname(archivePath), { recursive: true });
+await mkdir(path.dirname(livePath), { recursive: true });
+await writeFile(archivePath, json, 'utf8');
+await writeFile(livePath, json, 'utf8');
+console.log(`OK: ${plan.length} sesiones escritas en ${archivePath} y ${livePath}`);
