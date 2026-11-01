@@ -1,0 +1,9 @@
+name = "tuentrenador-strava-sync"
+main = "src/index.mjs"
+compatibility_date = "2026-01-01"
+
+# Cada 10 minutos. Cloudflare sí cumple el horario del cron con precisión
+# (a diferencia de GitHub Actions) - esto es lo que hace que funcione sin
+# depender del PC.
+[triggers]
+crons = ["*/10 * * * *"]
