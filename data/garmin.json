@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T10:17:26.581381+00:00",
+  "updatedAt": "2026-11-01T11:55:13.518036+00:00",
   "days": [
     {
       "date": "2026-09-03",
@@ -888,16 +888,16 @@
     },
     {
       "date": "2026-11-01",
-      "restingHr": 52.0,
+      "restingHr": 51.0,
       "sleepSeconds": 21780,
       "sleepScore": 61,
       "sleepQuality": "FAIR",
       "hrvStatus": "UNBALANCED",
       "hrvLastNight": 46,
       "hrv7dAvg": 57,
-      "stressAvg": 41,
+      "stressAvg": 34,
       "bodyBatteryLow": 15,
-      "bodyBatteryHigh": 21,
+      "bodyBatteryHigh": 42,
       "readinessScore": 52,
       "readinessLevel": "MODERATE"
     }
