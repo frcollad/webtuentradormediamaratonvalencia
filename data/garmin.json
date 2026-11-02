@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T07:11:15.624149+00:00",
+  "updatedAt": "2026-11-02T14:07:41.882844+00:00",
   "days": [
     {
       "date": "2026-09-04",
@@ -895,9 +895,9 @@
       "hrvStatus": "UNBALANCED",
       "hrvLastNight": 51,
       "hrv7dAvg": 57,
-      "stressAvg": 23,
+      "stressAvg": 27,
       "bodyBatteryLow": 5,
-      "bodyBatteryHigh": 45,
+      "bodyBatteryHigh": 47,
       "readinessScore": 34,
       "readinessLevel": "LOW"
     }
