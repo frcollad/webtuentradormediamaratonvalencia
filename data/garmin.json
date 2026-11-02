@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-01T12:41:18.411119+00:00",
+  "updatedAt": "2026-11-02T06:51:01.622065+00:00",
   "days": [
-    {
-      "date": "2026-09-03",
-      "restingHr": 47.0,
-      "sleepSeconds": 28800,
-      "sleepScore": 89,
-      "sleepQuality": "GOOD",
-      "hrvStatus": "BALANCED",
-      "hrvLastNight": 67,
-      "hrv7dAvg": 55,
-      "stressAvg": 29,
-      "bodyBatteryLow": 5,
-      "bodyBatteryHigh": 87,
-      "readinessScore": 41,
-      "readinessLevel": "LOW"
-    },
     {
       "date": "2026-09-04",
       "restingHr": 49.0,
@@ -895,11 +880,26 @@
       "hrvStatus": "UNBALANCED",
       "hrvLastNight": 46,
       "hrv7dAvg": 57,
-      "stressAvg": 35,
-      "bodyBatteryLow": 15,
+      "stressAvg": 39,
+      "bodyBatteryLow": 5,
       "bodyBatteryHigh": 42,
       "readinessScore": 52,
       "readinessLevel": "MODERATE"
+    },
+    {
+      "date": "2026-11-02",
+      "restingHr": 50.0,
+      "sleepSeconds": 27120,
+      "sleepScore": 73,
+      "sleepQuality": "FAIR",
+      "hrvStatus": "UNBALANCED",
+      "hrvLastNight": 51,
+      "hrv7dAvg": 57,
+      "stressAvg": 23,
+      "bodyBatteryLow": 5,
+      "bodyBatteryHigh": 45,
+      "readinessScore": 34,
+      "readinessLevel": "LOW"
     }
   ]
 }
