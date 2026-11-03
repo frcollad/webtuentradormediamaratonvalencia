@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:16:39.775Z",
+  "updatedAt": "2026-11-03T02:27:24.456Z",
   "activities": [
     {
       "id": "strava-14712427457",
@@ -5963,6 +5963,27 @@
       "descent": null,
       "avgPower": 336.9,
       "maxPower": 498,
+      "laps": []
+    },
+    {
+      "id": "strava-20834132207",
+      "date": "2026-11-02T19:19:50Z",
+      "localDate": "2026-11-02",
+      "title": "Pádel al anochecer",
+      "sport": "other",
+      "source": "strava",
+      "distance": 159.7,
+      "duration": 3599,
+      "elapsed": 3599,
+      "pace": 22536.005009392615,
+      "avgHr": 97.1,
+      "maxHr": 135,
+      "avgCad": 56.4,
+      "maxCad": null,
+      "ascent": 0,
+      "descent": null,
+      "avgPower": null,
+      "maxPower": null,
       "laps": []
     }
   ]
