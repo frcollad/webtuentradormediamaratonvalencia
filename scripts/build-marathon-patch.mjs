@@ -18,7 +18,7 @@ const ROWS = [
   ['2026-11-03', 'quality', 'Series: 10×400m', '2km+técnica+10×400m a 1:30 (3:45/km), recuperación 200m trote +2km', 10, null],
   ['2026-11-04', 'easy', 'Rodaje suave + gym', 'Rodaje suave a 5:20–5:40/km + gimnasio (core/tren superior, pierna ligera)', 10, 148],
   ['2026-11-05', 'quality', 'Umbral: 3×2km', '2km+3×2km a umbral (8:30–8:40, 4:15–4:20/km), recuperación 2min trote +2km', 10.5, null],
-  ['2026-11-06', 'rest', 'Descanso', 'Descanso total', 0, null],
+  ['2026-11-06', 'quality', 'Hecho: 2×5K (en lugar del descanso)', '2km calentamiento (5:24/km) + 2×5K con ~5min de pausa + 2km vuelta a la calma (5:30/km). 5K #1: 20:44 (4:09/km, FC ~145). 5K #2: 20:31 (4:06/km, FC ~160, último km 3:52). Media de los 5K: 20:38 (~4:08/km). Cambiado por el descanso previsto.', 14, null],
   ['2026-11-07', 'easy', 'Rodaje suave', 'Rodaje suave a 5:20–5:40/km', 6, 148],
   ['2026-11-08', 'long', 'Tirada larga 22km', 'Tirada larga continua suave a 5:20–5:30/km', 22, 152],
 
@@ -99,7 +99,7 @@ const plan = ROWS.map(([date, kind, title, details, expectedKm, hrCap]) => {
 
 const patch = {
   plan,
-  planVersion: 'Coach · Maratón Valencia · 30/10 · plan importado (transición + 5 semanas)',
+  planVersion: 'Coach · Maratón Valencia · 07/11 · registrado 2×5K del 6/11',
   coachNote:
     'Plan de maratón importado: objetivo 3:31:00 (5:00/km) en el Maratón de Valencia del 6 de diciembre de 2026, ' +
     'con bloque de velocidad después para una 10K sub-40. Estructura fija: lunes regenerativo + pádel, martes series, ' +

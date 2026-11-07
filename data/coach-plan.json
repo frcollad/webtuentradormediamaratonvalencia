@@ -89,11 +89,11 @@
       "week": 1,
       "day": "Vie",
       "phase": "Vuelta al volumen",
-      "kind": "rest",
-      "title": "Descanso",
-      "details": "Descanso total",
+      "kind": "quality",
+      "title": "Hecho: 2×5K (en lugar del descanso)",
+      "details": "2km calentamiento (5:24/km) + 2×5K con ~5min de pausa + 2km vuelta a la calma (5:30/km). 5K #1: 20:44 (4:09/km, FC ~145). 5K #2: 20:31 (4:06/km, FC ~160, último km 3:52). Media de los 5K: 20:38 (~4:08/km). Cambiado por el descanso previsto.",
       "source": "coach",
-      "expectedKm": 0,
+      "expectedKm": 14,
       "hrCap": null
     },
     {
@@ -457,6 +457,6 @@
       "hrCap": null
     }
   ],
-  "planVersion": "Coach · Maratón Valencia · 30/10 · plan importado (transición + 5 semanas)",
+  "planVersion": "Coach · Maratón Valencia · 07/11 · registrado 2×5K del 6/11",
   "coachNote": "Plan de maratón importado: objetivo 3:31:00 (5:00/km) en el Maratón de Valencia del 6 de diciembre de 2026, con bloque de velocidad después para una 10K sub-40. Estructura fija: lunes regenerativo + pádel, martes series, miércoles suave (+gym), jueves ritmo, viernes descanso, sábado suave, domingo tirada larga. Pico de volumen en la semana 3 (~77km, tirada de 30km). Si aparece una molestia: quita primero los km del sábado, luego los del miércoles — la tirada larga es lo último que se toca."
 }
