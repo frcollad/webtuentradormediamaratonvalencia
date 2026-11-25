@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T11:42:52.470Z",
+  "updatedAt": "2026-11-25T20:42:51.066Z",
   "activities": [
     {
       "id": "strava-14712427457",
@@ -6257,6 +6257,27 @@
       "descent": null,
       "avgPower": 295.1,
       "maxPower": 378,
+      "laps": []
+    },
+    {
+      "id": "strava-21119928162",
+      "date": "2026-11-25T13:02:35Z",
+      "localDate": "2026-11-25",
+      "title": "Carrera de tarde",
+      "sport": "running",
+      "source": "strava",
+      "distance": 8335.2,
+      "duration": 2595,
+      "elapsed": 2844,
+      "pace": 311.3302620213072,
+      "avgHr": 138.5,
+      "maxHr": 159,
+      "avgCad": 173,
+      "maxCad": null,
+      "ascent": 63,
+      "descent": null,
+      "avgPower": 321,
+      "maxPower": 488,
       "laps": []
     }
   ]
